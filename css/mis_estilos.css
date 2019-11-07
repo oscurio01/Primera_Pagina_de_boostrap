@@ -1,0 +1,142 @@
+.fondo{
+  background:rgb(167, 30, 215);
+}
+.borde{
+  border: 1.6px solid black;
+  height: 100px;
+  text-align: center;
+}
+
+.color1{background:rgba(201, 0, 242, 0.7);}
+.color2{background: rgba(212, 72, 98, 0.7);}
+.color3{background: rgba(64, 157, 146, 0.7);}
+.color4{background: rgba(170, 186, 91, 0.7);}
+.color5{background: rgba(47, 191, 57, 0.7);}
+.colorpie{background: rgba(0, 0, 0, 0.7)}
+
+.opa{
+background-image: url("../image/touhou_project_fondo.jpg");
+background-size: 100%;
+background-position: center;
+background-color: rgb(0, 0, 0);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.ajustar{
+width: 50%;
+height: 50%;
+
+}
+
+p.color{
+  color: rgb(205, 11, 11);
+  border-color: rgb(210, 71, 61);
+
+}
+
+p {
+  padding: 2%;
+  outline-color:rgba(201, 22, 159, 0.8);
+}
+
+p.acerca_de_dalgo {outline-style: ridge;
+}
+
+p.puntos_guiados {
+  outline-style: dashed;
+}
+
+/* <idiomas> */
+
+/* castellano*/
+.es {
+ background-color: #5ac5e7;
+ border-radius: 15%;
+ text-decoration: none;
+ position: relative;
+ color: black;
+}
+
+.es:hover {
+ background-color: #5ed1f6;
+ color: white;
+}
+
+.es_activa {
+ background-color: rgb(16, 55, 193);
+ border-radius: 15%;
+ text-decoration: none;
+ position: relative;
+ color:rgb(254, 254, 254);
+}
+
+.es_activa:hover {
+ background-color: rgb(12, 46, 163);
+ border-radius: 15%;
+ text-decoration: none;
+ position: relative;
+ color: rgba(255, 255, 255, 0.8);
+}
+
+/*catalan */
+.ca {
+ background-color: #5ac5e7;
+ border-radius: 15%;
+ text-decoration: none;
+ position: relative;
+ color: black;
+}
+
+.ca:hover {
+ background-color: #5ed1f6;
+ color: white;
+}
+
+.ca_activa {
+ background-color: rgb(16, 55, 193);
+ border-radius: 15%;
+ text-decoration: none;
+ position: relative;
+ color:rgb(254, 254, 254);
+}
+
+.ca_activa:hover {
+ background-color: rgb(12, 46, 163);
+ border-radius: 15%;
+ text-decoration: none;
+ position: relative;
+ color: rgba(255, 255, 255, 0.8);
+}
+
+/*ingles */
+.en {
+ background-color: #5ac5e7;
+ border-radius: 15%;
+ text-decoration: none;
+ position: relative;
+ color: black;
+}
+
+.en:hover {
+ background-color: #5ed1f6;
+ color: white;
+}
+
+.en_activa {
+ background-color: rgb(16, 55, 193);
+ border-radius: 15%;
+ text-decoration: none;
+ position: relative;
+ color:rgb(254, 254, 254);
+}
+
+.en_activa:hover {
+ background-color: rgb(12, 46, 163);
+ border-radius: 15%;
+ text-decoration: none;
+ position: relative;
+ color: rgba(255, 255, 255, 0.8);
+}
+
+ /*</idiomas> */
